@@ -14,7 +14,7 @@ char clientID[] = "50094dd0-9e41-11e8-9300-637b1fa64cc6";
 unsigned long seconds;
 float temp;
 float hum;
-int din = 16; // D0
+int din = 16; // Pin corrispondente D0
 
 int CS =  5;  // D1
 
